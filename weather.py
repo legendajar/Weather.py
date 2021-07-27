@@ -1,5 +1,4 @@
 import requests
-#import os
 from datetime import datetime
 
 api_key ='aba9bf91760d4d816914e60267e07477'
